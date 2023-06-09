@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, Spring boot**
 
-- 📫 How to reach me **Akhmis.oussama@gmail.com**
+- 📫 How to reach me **akhmis.oussama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
