@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akhmis.oussama@gmail.com**
 
-- <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjIydW94dnoyNzd3MndrNjVrdHZmcDVsbHFic2U5aW1wdXM1MGlnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjIydW94dnoyNzd3MndrNjVrdHZmcDVsbHFic2U5aW1wdXM1MGlnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif"  />
 
 
 <h3 align="left">Connect with me:</h3>
