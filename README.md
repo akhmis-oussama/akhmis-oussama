@@ -64,12 +64,6 @@
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://docs.github.com/assets/images/site/features/actions-icon-actions.png" alt="GitHub Actions" width="40" height="40"/>
-  </a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/cd-icon.png" alt="ArgoCD" width="40" height="40"/>
-  </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
