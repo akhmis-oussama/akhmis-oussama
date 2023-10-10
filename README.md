@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama Akhmis</h1>
-<h3 align="center">MERN STACK developer learning new programming languages and DevOps tools</h3>
+<h3 align="center">DevOps and Software Engineering Student At INPT</h3>
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
@@ -45,11 +45,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-</p>
-
-<h4>DevOps Tools:</h4>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -67,11 +63,20 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-</p>
-
-<h4>Softwares:</h4>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  </a>
+  
+</p>
